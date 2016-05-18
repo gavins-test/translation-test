@@ -1,0 +1,101 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-17 23:35-0400\n"
+"PO-Revision-Date: 2016-05-17 23:35-0400\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: en <en@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+msgctxt "newthing:gavin"
+msgid "Gavin's newthing"
+msgstr "Gavin's newthing"
+
+msgctxt "admin:distribution:form:email"
+msgid "Email:"
+msgstr "Email:"
+
+msgctxt "admin:distribution:form:partner_name"
+msgid "Partner Name:"
+msgstr "Partner Name:"
+
+msgctxt "admin:distribution:form:search_term"
+msgid "Search Term:"
+msgstr "Search Term:"
+
+msgctxt "admin:distribution:form:spreadsheet"
+msgid "Spreadsheet:"
+msgstr "Spreadsheet:"
+
+msgctxt "admin:distribution:form:submit"
+msgid "Start Batch"
+msgstr "Start Batch"
+
+msgctxt "admin:distribution:form:instructions"
+msgid "Provide EITHER a search term OR a spreadsheet."
+msgstr "Provide EITHER a search term OR a spreadsheet."
+
+msgctxt "common:buttons:share"
+msgid "Share"
+msgstr "Share"
+
+msgctxt "common:links:learn_more"
+msgid "Learn more"
+msgstr "Learn more"
+
+msgctxt "common:index:upload_limit_left_many"
+msgid "You have %{amount} entries remaining to upload. <a href='/upgrade' target='_blank'>Upgrade now</a>."
+msgstr "You have %{amount} entries remaining to upload. <a href='/upgrade' target='_blank'>Upgrade now</a>."
+
+msgctxt "common:index:upload_limit_left_one"
+msgid "You have %{amount} entry remaining to upload. <a href='/upgrade' target='_blank'>Upgrade now</a>."
+msgstr "You have %{amount} entry remaining to upload. <a href='/upgrade' target='_blank'>Upgrade now</a>."
+
+msgctxt "common:you"
+msgid "You"
+msgstr "You"
+
+msgctxt "common:activity"
+msgid "Activity"
+msgstr "Activity"
+
+msgctxt "common:my_profile"
+msgid "My Profile"
+msgstr "My Profile"
+
+msgctxt "blog:title"
+msgid "Title"
+msgstr "Title"
+
+msgctxt "blog:post"
+msgid "Post"
+msgstr "Post"
+
+msgctxt "blog:publish"
+msgid "Publish"
+msgstr "Publish"
+
+msgctxt "blog:new_post"
+msgid "Create new post"
+msgstr "Create new post"
+
+msgctxt "blog:comments:none"
+msgid "No Comments"
+msgstr "No Comments"
+
+msgctxt "blog:comments:one"
+msgid "Comment"
+msgstr "Comment"
+
+msgctxt "blog:comments:many"
+msgid "Comments"
+msgstr "Comments"
