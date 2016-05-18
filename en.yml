@@ -1,0 +1,31 @@
+en:
+  admin:
+    distribution:
+      form:
+        email: "Email:"
+        partner_name: "Partner Name:"
+        search_term: "Search Term:"
+        spreadsheet: "Spreadsheet:"
+        submit: "Start Batch"
+        instructions: "Provide EITHER a search term OR a spreadsheet."
+
+  common:
+    buttons:
+      share: "Share"
+    links:
+      learn_more: 'Learn more'
+    index:
+      upload_limit_left_many: "You have %{amount} entries remaining to upload. <a href='/upgrade' target='_blank'>Upgrade now</a>."
+      upload_limit_left_one: "You have %{amount} entry remaining to upload. <a href='/upgrade' target='_blank'>Upgrade now</a>."
+    you: "You"
+    activity: "Activity"
+    my_profile: "My Profile"
+  blog:
+    title: "Title"
+    post: "Post"
+    publish: "Publish"
+    new_post: "Create new post"
+    comments:
+        none: "No Comments"
+        one: "Comment"
+        many: "Comments"

@@ -1,0 +1,22 @@
+---
+fr:
+  common:
+    buttons:
+      share: Partager
+    links:
+      learn_more: "En savoir plus"
+    index:
+      upload_limit_left_many: Vous pouvez encore transférer %{amount} photos. <a href='/upgrade' target='_blank'>Surclasser maintenant</a>.
+      upload_limit_left_one: Il ne vous reste plus qu' %{amount} envoi de photo disponible. <a href='/upgrade' target='_blank'>Surclasser maintenant</a>.
+    you: Vous
+    activity: Activités
+    my_profile: Mon Profil
+  blog:
+    title: Titre
+    post: Billet
+    publish: Publier
+    new_post: Créer un nouveau billet
+    comments:
+      none: Aucun commentaire
+      one: Commentaire
+      many: Commentaires
