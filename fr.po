@@ -115,5 +115,5 @@ msgstr "La nouvelle chose de Gavin"
 #: 
 msgctxt "newthing:gavin2"
 msgid "gavin's other new thing"
-msgstr "gavin's other new thing"
+msgstr "l'autre nouvelle chose de gavin"
 
