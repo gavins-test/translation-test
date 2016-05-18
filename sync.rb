@@ -6,6 +6,9 @@ locales = [
 ]
 
 locales.each do |l|
-	system "../yaml2po -l #{l} -t en.yml #{l}.yml #{l}.po"
+  command = "../yaml2po/yaml2po -l #{l} -t en.yml #{l}.yml #{l}.po"
+  puts command
+  system command
 end
 
+puts "done"
